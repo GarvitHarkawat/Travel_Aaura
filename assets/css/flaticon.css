@@ -17,19 +17,6 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
-.flaticon-loupe:before {
-    content: "\f101";
-}
-.flaticon-shopping-cart:before {
-    content: "\f102";
-}
-.flaticon-shopping-cart-1:before {
-    content: "\f103";
-}
-.flaticon-shopping-bag:before {
-    content: "\f104";
-}
 .flaticon-shopping-cart-2:before {
     content: "\f105";
 }
@@ -92,4 +79,6 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 }
 .flaticon-balance:before {
     content: "\f119";
+}
+.col-xl-5.order-xl-2.col-12 .wpo-section-title.s2.wow.fadeInRightSlow .theme-btn {
 }
