@@ -4749,11 +4749,12 @@ a.ui-button:active,
   transition: all 0.3s ease-in-out;
 }
 .places-wraper .places-item .content span {
-  color: #424740;
-  font-family: Sora;
-  font-size: 14px;
-  font-weight: 400;
-  text-transform: capitalize;
+    color: #424740;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    text-shadow: 0px 0px 150px;
 }
 .places-wraper .places-item:hover .image img {
   transform: scale(1.1);
