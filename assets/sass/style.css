@@ -2158,8 +2158,9 @@ a.ui-button:active,
 }
 .wpo-site-header #navbar > ul li a:hover,
 .wpo-site-header #navbar > ul li a:focus {
-  text-decoration: none;
-  color: #1069fe;
+    text-decoration: none;
+    color: #1069fe;
+    font-weight: 600;
 }
 @media screen and (min-width: 992px) {
   .wpo-site-header #navbar {
