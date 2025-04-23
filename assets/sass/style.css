@@ -3867,8 +3867,16 @@ a.ui-button:active,
 .booking-section .booking-wrap .from_wraper {
   display: flex;
   align-items: center;
+  flex-direction: column;
   justify-content: center;
   flex-wrap: wrap;
+}
+.first-t{
+	display: flex;
+	
+}
+.second-t{
+	display: flex;
 }
 @media (max-width: 991px) {
   .booking-section .booking-wrap .from_wraper {
